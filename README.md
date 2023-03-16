@@ -1,4 +1,4 @@
-# react-components
+# typescript-utils
 [![NPM version][npm-image]][npm-url]
 [![Build][github-build]][github-build-url]
 ![npm-typescript]
